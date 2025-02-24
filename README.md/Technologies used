@@ -1,0 +1,5 @@
+Java (Spring Boot) ----	  Backend REST API
+MySQL	Database     ----   storing sentiment analysis results
+HTML & CSS	       ----   Frontend for user input
+JUnit              ----	  Unit testing for API
+Maven	             ----   Dependency management
