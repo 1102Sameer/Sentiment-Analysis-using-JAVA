@@ -1,0 +1,3 @@
+Method  -----  	Endpoint      	     ------        Description
+POST    -----	/api/sentiment/analyze ------	   Analyze a text for sentiment
+GET	    ----- /api/sentiment/results ------    Get all stored sentiment results
